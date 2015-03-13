@@ -50,8 +50,8 @@ int check(int key)
 	{
 		while ((!less.empty()) && ((p2[i].first - less.front().first) > r))
 			less.pop();
-		while ((!excess.empty()) && (excess.front().second == 0))
-			excess.pop();
+		//while ((!excess.empty()) && (excess.front().second == 0))
+			//excess.pop();
 		while ((!excess.empty()) && ((p2[i].first - excess.front().first) > r))
 			return 0;
 		long long total = 0;//保存需要转移到i点的总共的人数，最多值能转移key个，为什么呢，因为如果超过key个并且i个位置的居民本来就有人，就意味着超过的那部分以后要从i这个位置继续往后走，那么这其中的一些人走的路程就会超过r
