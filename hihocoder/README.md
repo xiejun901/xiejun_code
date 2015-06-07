@@ -55,7 +55,8 @@
 |42|[骨牌覆盖问题·二](http://hihocoder.com/problemset/problem/42)|[hihocoder42.cpp](./hihocoder42.cpp)|
 |44|[博弈游戏·Nim游戏](http://hihocoder.com/problemset/problem/44)|[hihocoder44.cpp](./hihocoder44.cpp)|
 |47|[拓扑排序·一](http://hihocoder.com/contest/hiho47/problem/1)|[hihocoder47.cpp](./hihocoder47.cpp)|
-|47|[拓扑排序·二](http://hihocoder.com/contest/hiho48/problem/1)|[hihocoder48.cpp](./hihocoder48.cpp)|
+|48|[拓扑排序·二](http://hihocoder.com/contest/hiho48/problem/1)|[hihocoder48.cpp](./hihocoder48.cpp)|
+|49|[欧拉路·一](http://hihocoder.com/contest/hiho49/problem/1)|[hihocoder49.cpp](./hihocoder49.cpp)|
 |---| ----- | -------- |
 
 
