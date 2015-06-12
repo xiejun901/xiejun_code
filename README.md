@@ -5,8 +5,12 @@ This repository contains the exercise code.
 
 ##- hihocoder
 
-the erercises from [hihocoder](http://hihocoder.com/), the contents of the solutions are list in [here](./hihocoder/README.md)
+the excercises from [hihocoder](http://hihocoder.com/), the contents of the solutions are list in [here](./hihocoder/README.md)
 
 
 ##- introduction-to-algorithms
+
+##- leetcode
+
+the excercises frome [leetcode](https://leetcode.com/), the contents of the solutions are list in [here](./leetcode/README.md)
 

@@ -1,3 +1,5 @@
+##做好了目录，部分代码还没迁移进来
+
 ##- leetcode
 
 | # | Title | Solution |
