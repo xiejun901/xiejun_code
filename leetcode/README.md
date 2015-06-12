@@ -7,7 +7,7 @@
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|.cpp|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|.cpp|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|.cpp|
-|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|.cpp|
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[c++](./215 Kth Largest Element in an Array/leetcode215.cpp)|
 |214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)|.cpp|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|.cpp|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|.cpp|
@@ -195,14 +195,14 @@
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|.cpp|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|.cpp|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|.cpp|
-|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|.cpp|
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[C++](./Container With Most Water/leetcode11.cpp)|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|.cpp|
-|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|.cpp|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C++](./Palindrome Number/leetcode9.cpp)|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|.cpp|
-|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|.cpp|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](./Reverse Integer/leetcode7.cpp)|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|.cpp|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|.cpp|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|.cpp|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|.cpp|
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|.cpp|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](./Add Two Numbers/leetcode2.cpp)|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|.cpp|
