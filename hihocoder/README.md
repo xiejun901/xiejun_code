@@ -58,6 +58,7 @@
 |48|[拓扑排序·二](http://hihocoder.com/contest/hiho48/problem/1)|[hihocoder48.cpp](./hihocoder48.cpp)|
 |49|[欧拉路·一](http://hihocoder.com/contest/hiho49/problem/1)|[hihocoder49.cpp](./hihocoder49.cpp)|
 |50|[欧拉路·二](http://hihocoder.com/contest/hiho50/problem/1)|[hihocoder50.cpp](./hihocoder50.cpp)|
+|50|[欧拉路·三](http://hihocoder.com/contest/hiho51/problem/1)|[hihocoder51.cpp](./hihocoder51.cpp)|
 |---| ----- | -------- |
 
 
