@@ -156,8 +156,8 @@
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|.cpp|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|.cpp|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|.cpp|
-|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|.cpp|
-|51|[N-Queens](https://leetcode.com/problems/n-queens/)|.cpp|
+|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[C++](./52 N-Queens II/leetcode52.cpp)|
+|51|[N-Queens](https://leetcode.com/problems/n-queens/)|[C++](./51 N-Queens/leetcode51.cpp)|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|.cpp|
 |49|[Anagrams](https://leetcode.com/problems/anagrams/)|.cpp|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|.cpp|
