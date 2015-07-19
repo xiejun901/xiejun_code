@@ -4,6 +4,7 @@
 
 | # | Title | Solution |
 |---| ----- | -------- |
+|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[c++](./235 Lowest Common Ancestor of a Binary Search Tree/leetcode235.cpp) .py|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|.cpp .py|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|.cpp|
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|.cpp|
@@ -204,7 +205,7 @@
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](./7 Reverse Integer/leetcode7.cpp),[Python](./7 Reverse Integer/leetcode7.py)|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|.cpp|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|.cpp|
-|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|.cpp|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[C++](./4 Median of Two Sorted Arrays/leetcode4.cpp) [Python](./4 Median of Two Sorted Arrays/leetcode4.py)|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python](./3 Longest Substring Without Repeating Characters/leetcode3.py)|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](./2 Add Two Numbers/leetcode2.cpp)|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](./1 Two Sum/leetcode1.cpp)|
