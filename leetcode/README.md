@@ -7,6 +7,9 @@
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[C++](./238 Product of Array Except Self/leetcode238.cpp)|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[C++](./235 Lowest Common Ancestor of a Binary Search Tree/leetcode235.cpp) .py|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[C++](./235 Implement Queue using Stacks/leetcode232.cpp) .py|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[C++](./231 Power of Two/leetcode231.cpp) .py|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[C++](./230 Kth Smallest Element in a BST/leetcode230.cpp) .py|
+|225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[C++](./225 Implement Stack using Queues/leetcode225.cpp) .py|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|.cpp .py|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|.cpp|
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|.cpp|
@@ -36,7 +39,7 @@
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|.cpp|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|.cpp|
 |186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/)|.cpp|
-|179|[Largest Number](https://leetcode.com/problems/largest-number/)|.cpp|
+|179|[Largest Number](https://leetcode.com/problems/largest-number/)|[C++](./179 Largest Number/leetcode179.cpp)|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/)|.cpp|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|.cpp|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|.cpp|
@@ -161,7 +164,7 @@
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|.cpp|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[C++](./52 N-Queens II/leetcode52.cpp)|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|[C++](./51 N-Queens/leetcode51.cpp)|
-|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|.cpp|
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[C++](./50 Pow(x, n)/leetcode50.cpp)|
 |49|[Anagrams](https://leetcode.com/problems/anagrams/)|.cpp|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|.cpp|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|.cpp|
