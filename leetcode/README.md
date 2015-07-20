@@ -4,8 +4,9 @@
 
 | # | Title | Solution |
 |---| ----- | -------- |
-|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[C++](./238 Product of Array Except Self/leetcode38.cpp)|
+|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[C++](./238 Product of Array Except Self/leetcode238.cpp)|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[C++](./235 Lowest Common Ancestor of a Binary Search Tree/leetcode235.cpp) .py|
+|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[C++](./235 Implement Queue using Stacks/leetcode232.cpp) .py|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|.cpp .py|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|.cpp|
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|.cpp|
@@ -137,7 +138,7 @@
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|.cpp|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|.cpp|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|.cpp|
-|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|.cpp|
+|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[C++](./73 Set Matrix Zeroes/leetcode73.cpp)|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|.cpp|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|.cpp|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|.cpp|
@@ -151,7 +152,7 @@
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|.cpp|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|.cpp|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|.cpp|
-|59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|.cpp|
+|59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[C++](./59 Spiral Matrix II/leetcode59.cpp)|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|.cpp|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|.cpp|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|.cpp|
