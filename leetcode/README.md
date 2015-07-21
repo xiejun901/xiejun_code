@@ -5,11 +5,13 @@
 | # | Title | Solution |
 |---| ----- | -------- |
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[C++](./238 Product of Array Except Self/leetcode238.cpp)|
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[C++](./234 Palindrome Linked List/leetcode234.ch) .py|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[C++](./235 Lowest Common Ancestor of a Binary Search Tree/leetcode235.cpp) .py|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[C++](./235 Implement Queue using Stacks/leetcode232.cpp) .py|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[C++](./231 Power of Two/leetcode231.cpp) .py|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[C++](./230 Kth Smallest Element in a BST/leetcode230.cpp) .py|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[C++](./225 Implement Stack using Queues/leetcode225.cpp) .py|
+|224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[C++](./224 Basic Calculator/leetcode224.h) .py|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|.cpp .py|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|.cpp|
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|.cpp|
@@ -206,7 +208,7 @@
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[C++](./11 Container With Most Water/leetcode11.cpp)|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|.cpp|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C++](./9 Palindrome Number/leetcode9.cpp)|
-|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|.cpp|
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[C++](./8 String to Integer (atoi)/lettcode8cpp)|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](./7 Reverse Integer/leetcode7.cpp),[Python](./7 Reverse Integer/leetcode7.py)|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|.cpp|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|.cpp|
