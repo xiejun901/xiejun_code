@@ -13,7 +13,7 @@
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[C++](./225 Implement Stack using Queues/leetcode225.cpp) .py|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[C++](./224 Basic Calculator/leetcode224.h) .py|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|.cpp .py|
-|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|.cpp|
+|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[C++](./219 Contains Duplicate II/leetcode219.cpp)|
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|.cpp|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[C++](./217 Contains Duplicate/leetcode217.cpp)|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|.cpp|
@@ -28,7 +28,7 @@
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[C++](./207 Course Schedule/leetcode207.cpp)|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|.cpp|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|.cpp|
-|204|[Count Primes](https://leetcode.com/problems/count-primes/)|.cpp|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/)|[C++](./204 Count Primes/leetcode204.cpp)|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|.cpp|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|.cpp|
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|.cpp|
