@@ -91,7 +91,7 @@
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|.cpp|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|.cpp|
 |126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)|.cpp|
-|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|.cpp|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[C++](./125 Valid Palindrome/leetcode125.h)|
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|.cpp|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|.cpp|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|.cpp|
@@ -196,7 +196,7 @@
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|.cpp|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|.cpp|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|.cpp|
-|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|.cpp|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[C++](./20 Valid Parentheses/leetcode20.cpp)|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|.cpp|
 |18|[4Sum](https://leetcode.com/problems/4sum/)|.cpp|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|.cpp|
