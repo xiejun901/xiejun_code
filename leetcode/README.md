@@ -4,6 +4,7 @@
 
 | # | Title | Solution |
 |---| ----- | -------- |
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[C++](./242 Valid Anagram/leetcode242.cpp)|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[C++](./238 Product of Array Except Self/leetcode238.cpp)|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[C++](./234 Palindrome Linked List/leetcode234.h) .py|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[C++](./235 Lowest Common Ancestor of a Binary Search Tree/leetcode235.cpp) .py|
