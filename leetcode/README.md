@@ -66,7 +66,7 @@
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|.cpp|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|.cpp|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|.cpp|
-|151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|.cpp|
+|151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[C++](./151 Reverse Words in a String/leetcode151.cpp)|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|.cpp|
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|.cpp|
 |148|[Sort List](https://leetcode.com/problems/sort-list/)|.cpp|
