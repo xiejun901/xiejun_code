@@ -174,7 +174,7 @@
 |46|[Permutations](https://leetcode.com/problems/permutations/)|.cpp|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|.cpp|
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|.cpp|
-|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|.cpp|
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[C++](./43 Multiply Strings/leetcode43.h)|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|.cpp|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|.cpp|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|.cpp|
