@@ -38,7 +38,7 @@
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|.cpp|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|.cpp|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|.cpp|
-|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|.cpp|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[C++](./189 Rotate Array/leetcode189.cpp)|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|.cpp|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|.cpp|
 |186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/)|.cpp|
