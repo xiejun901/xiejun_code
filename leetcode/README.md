@@ -4,6 +4,8 @@
 
 | # | Title | Solution |
 |---| ----- | -------- |
+|258|[Add Digits](https://leetcode.com/problems/add-digits/)|[C++](./258 Add Digits/leetcode258.cpp)|
+|257|[Binary Tree Paths](https://leetcode.com/problemset/algorithms/)|[C++](./257 Binary Tree Paths/leetcode257.h)|h
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[C++](./242 Valid Anagram/leetcode242.cpp)|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[C++](./238 Product of Array Except Self/leetcode238.cpp)|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[C++](./234 Palindrome Linked List/leetcode234.h) .py|
