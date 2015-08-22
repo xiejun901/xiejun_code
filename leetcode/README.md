@@ -27,8 +27,8 @@
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|.cpp|
 |211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|.cpp|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|.cpp|
-|209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|.cpp|
-|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|.cpp|
+|209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[C++](.cpp|
+|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[C++](./208 Implement Trie (Prefix Tree)/leetcode208.cpp)|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[C++](./207 Course Schedule/leetcode207.cpp)|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|.cpp|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|.cpp|
