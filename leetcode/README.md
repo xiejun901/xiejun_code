@@ -4,6 +4,7 @@
 
 | # | Title | Solution |
 |---| ----- | -------- |
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)|[C++](./268 Missing Number/leetcode268.cpp)|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[C++](./263 Ugly Number/leetcode263.cpp)|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[C++](./258 Add Digits/leetcode258.cpp)|
 |257|[Binary Tree Paths](https://leetcode.com/problemset/algorithms/)|[C++](./257 Binary Tree Paths/leetcode257.h)|h
