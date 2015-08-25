@@ -183,7 +183,7 @@
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|.cpp|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|.cpp|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|.cpp|
-|38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[C++](./38 Count and Say/leetcode.cpp)|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[C++](./38 Count and Say/leetcode38.cpp)|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|.cpp|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|.cpp|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|.cpp|
