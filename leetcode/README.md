@@ -154,7 +154,7 @@
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|.cpp|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|.cpp|
 |68|[Text Justification](https://leetcode.com/problems/text-justification/)|.cpp|
-|67|[Add Binary](https://leetcode.com/problems/add-binary/)|.cpp|
+|67|[Add Binary](https://leetcode.com/problems/add-binary/)|[C++](./67 Add Binary/leetcode67.cpp)|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|.cpp|
 |65|[Valid Number](https://leetcode.com/problems/valid-number/)|.cpp|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|.cpp|
