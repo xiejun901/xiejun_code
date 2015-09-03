@@ -193,7 +193,7 @@
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|.cpp|
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|.cpp|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|.cpp|
-|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|.cpp|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[C++](./28 Implement strStr()/leetcode28.h)|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|.cpp|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|.cpp|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|.cpp|
