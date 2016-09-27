@@ -39,7 +39,10 @@ object Anagrams {
   }.toList.sortBy(_._1)
 
   /** Converts a sentence into its character occurrence list. */
-  def sentenceOccurrences(s: Sentence): Occurrences = wordOccurrences(s.reduce(_+_))
+  def sentenceOccurrences(s: Sentence): Occurrences = s match {
+    case Nil => Nil
+    case _ => wordOccurrences(s.reduce(_+_))
+  }
 
   /** The `dictionaryByOccurrences` is a `Map` from different occurrences to a sequence of all
    *  the words that have that occurrence count.
@@ -89,9 +92,9 @@ object Anagrams {
     case Nil => List(Nil)
     case x::xs =>
       (for{
-            i <- 1 to x._2
+            i <- 0 to x._2
             resi <- combinations(xs)
-          } yield (x._1, i)::resi).toList
+          } yield (x._1, i)::resi).toList.map(_.filter(_._2 !=0))
   }
 
   /** Subtracts occurrence list `y` from occurrence list `x`.
@@ -105,7 +108,7 @@ object Anagrams {
    *  and has no zero-entries.
    */
   def subtract(x: Occurrences, y: Occurrences): Occurrences = y.toMap.foldLeft(x.toMap)(adjustTerm)
-      .toList.filter(_._2 <= 0).sortBy(_._1)
+      .toList.filter(_._2 > 0).sortBy(_._1)
 
   def adjustTerm(x:Map[Char, Int], term:(Char, Int)) = {
     val (ch, cnt) = term
@@ -152,5 +155,19 @@ object Anagrams {
    *
    *  Note: There is only one anagram of an empty sentence.
    */
-  def sentenceAnagrams(sentence: Sentence): List[Sentence] = Nil
+  def sentenceAnagrams(sentence: Sentence): List[Sentence] = {
+    val occurrencs = sentenceOccurrences(sentence)
+    def fromOccu(occu: Occurrences):List[Sentence] = occu match {
+      case Nil => List(Nil)
+      case occu_ =>
+            val coms  = combinations(occu_)
+            for{
+              com <- coms
+              wor <- dictionaryByOccurrences.getOrElse(com, Nil)
+              resi <- fromOccu(subtract(occu_, com))
+            } yield (wor::resi)
+    }
+    fromOccu(occurrencs)
+  }
+
 }
